@@ -1,6 +1,10 @@
 # Test Playwright - Projet de Tests End-to-End
 
-Ce projet a été configuré avec Playwright pour effectuer des tests end-to-end automatisés sur des applications web.
+Ce projet a été configuré avec Playwright pour effectuer des tests end-to-end automatisés sur l'applications web: https://testing-school.netlify.app/.
+
+
+https://github.com/user-attachments/assets/d30400fb-396a-41e2-a0c9-464c8072012a
+
 
 ## 📋 Table des matières
 
